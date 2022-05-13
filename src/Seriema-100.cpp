@@ -79,7 +79,7 @@ Upload settings
 /*+--------------------------------------------------------------------------------------+
  *| Constants declaration                                                                |
  *+--------------------------------------------------------------------------------------+ */
- 
+                                                      // teste
 const char *ssid =  "CasaDoTheodoro1";                 // name of your WiFi network
 const char *password =  "09012011";                   // password of the WiFi network
 
